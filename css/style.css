@@ -32,9 +32,9 @@ a.nav{
     font-size: 70px;
 }
 
-/*a:hover{
-    color: #EFEFEF;
-}*/
+a:hover{
+    color: #efefef;
+}
 
 p{
     font-size: 50px;
