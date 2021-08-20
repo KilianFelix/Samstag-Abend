@@ -115,8 +115,3 @@ li.kon{
 ul.kon{
     position: static;
 }
-
-@font-face {
-  font-family: kilianfont;
-  src: font/kilians font.ttf;
-}
